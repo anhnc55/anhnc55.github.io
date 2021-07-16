@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Anh Nguyen
+title:            .Fay Labs
 locale:           en_US
-url:              https://anhnc55.github.io
+url:              https://fayway.github.io
 
 
 # Jekyll configuration
@@ -28,21 +28,21 @@ kramdown:
 owner:
   name: Anh Nguyen
   avatar: bio-avatar-ft.png
-  bio: "I work as an iOS developer with a focus on focus on create useful apps and build the app architecture"
+  bio: "Constantly learning how to `dexterously` craft clean code"
   email:
-  disqus-shortname: Anh Nguyen
-  twitter: anhnc92
-  facebook: anhnc92
+  disqus-shortname: fayway
+  twitter: TheRealFayway
+  facebook: #username
   google:
-    plus:
+    plus: FayçalTirich
     analytics: UA-66584307-1
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: anhnc55
+  github: fayway
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: anh-nguyen-203230b1
+  linkedin: faycaltirich
   xing: #username
   instagram: #username
   lastfm: #username
