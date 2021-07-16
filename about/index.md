@@ -4,10 +4,11 @@ title: About
 tags: [about, perso]
 comments: true
 image:
+  feature: header/nature/night-stars.jpg
 ---
 ### NOT just another random web developer!
 
-Hi! My name is Fayçal and I have an engineer’s degree in computer science. I’m also a PHP5 Zend Certified Engineer and a Java Certified programmer and I'm currently working as a Front Developer! No matter the language/framework I deal with, I really try to get things done, do it right and be proud of the final result... This what my manifesto is all about.
+Hi! My name is Anh Nguyen and I have an engineer’s degree in computer science. I’m also a PHP5 Zend Certified Engineer and a Java Certified programmer and I'm currently working as a Front Developer! No matter the language/framework I deal with, I really try to get things done, do it right and be proud of the final result... This what my manifesto is all about.
 
 ### Facts about me:
 * I'm a proud dad of my little Lina
