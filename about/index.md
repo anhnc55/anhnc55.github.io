@@ -4,7 +4,6 @@ title: About
 tags: [about, perso]
 comments: true
 image:
-  feature: header/nature/night-stars.jpg
 ---
 ### NOT just another random web developer!
 
