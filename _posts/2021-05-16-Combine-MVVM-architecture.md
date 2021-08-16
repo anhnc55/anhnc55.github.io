@@ -4,11 +4,7 @@ title: Combine and MVVM Architecture
 excerpt: " Sample project with Combine + SwiftUI/UIKit and MVVM architecture"
 tags: [TDD, java, architecture, eng]
 comments: true
-image:
-  feature: header/tech/red-green.jpg
 ---
-
-# Combine and MVVM Architecture
 
 | UIKit | SwiftUI |
 | ----- | ------- |
@@ -82,5 +78,4 @@ protocol ViewModelType {
 * Add Xcode Template for this Architecture
 
 ## Links
-* [Clean Architecture with Combine](https://github.com/tuan188/CleanArchitecture)
-* [Example of Clean Architecture of iOS app using RxSwift](https://github.com/sergdort/CleanArchitectureRxSwift)
+* You can find my first solution (under the time pressure) in this [GitHub repo](https://github.com/anhnc55/Combine-MVVM){:target="_blank"}
