@@ -29,10 +29,10 @@ owner:
   name: Anh Nguyen
   avatar: bio-avatar-anhnc.png
   bio: "Knowledge is power."
-  email:
+  email: anhnc92@gmail.com
   disqus-shortname:
   twitter: anhnc92
-  facebook: #username
+  facebook: anhnc92
   google:
     plus:
     analytics:
@@ -41,10 +41,10 @@ owner:
     ad-slot:
   bing-verify:
   github: anhnc55
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 3799893/anhnc   #from a "http://stackoverflow.com/users/123456/username" link
   linkedin: anh-nguyen-203230b1
   xing: #username
-  instagram: #username
+  instagram: anhnc_55
   lastfm: #username
   tumblr: #username
   pinterest: #username
@@ -56,6 +56,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+  appstore: anh-nguyen/id1458306452
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
