@@ -21,20 +21,18 @@ comments: false
 			<li>Multithreading</li>
 			<li>Unit Testing</li>
 			<li>Object-Oriented Programming (OOP)</li>
+			<li>Protocol-Oriented Programming (POP)</li>
 			<li>Data Structures</li>
 			<li>Design Patterns</li>
             <li>Git</li>         
             <li>Project Management</li>  
-            <li>Mobile Applications</li>  
             <li>Mobile Marketing</li>     
             <li>Requirements Analysis</li>  
 			<li>Agile Methodologies</li>
 			<li>Scrum</li>
 			<li>Fastlane</li>
 			<li>CircleCI</li>
-			<li>API Design</li>
             <li>Firebase</li>
-            <li>User Interface</li>
             <li>Sketch</li>
             <li>Figma</li>
             <li>Zeplin</li>

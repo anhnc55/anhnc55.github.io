@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Terms and Conditions
-include_in_header: true
-include_in_footer: false
+tags: [about, perso]
+comments: false
 ---
 
 <header><meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no'></header>
