@@ -42,9 +42,9 @@ Source control: Git
 <br>
 
 Hi! My name is Anh Nguyen and I have an engineer’s degree in computer science. I’m currently working as an iOS engineer!<br>
-My purpose is to create consumer-facing iOS applications that people just love to use.
-<br>
+My purpose is to create useful and easy-to-use apps for everyone.
 
+<br>
 # <img class="logo" src="/images/apps/icons/ithemes-app-icon-changer.png" width="32"> iThemes - App Icon Changer
 <a href="https://apps.apple.com/us/app/ithemes-app-icon-changer/id1535360671?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1602374400&h=8b395929f1c29d6ade6faf120625ad0c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
@@ -93,12 +93,12 @@ Scan and manage business cards no need the internet.
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/9a02c5553d0a73009ebc5d8c9abaab5b/56a81ae5504e015219f5f50bad7fc4c8.png" width="150">
 
-# <img class="logo" src="/images/apps/icons/caffeine-tracker-application.png" width="32"> Business Card Scanner Lite
+# <img class="logo" src="/images/apps/icons/caffeine-tracker-application.png" width="32"> Caffeine Tracker Application
 <a href="https://apps.apple.com/us/app/caffeine-tracker-application/id1527955714?itscg=30200&amp;itsct=apps_box_badge" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="/images/apps/appstore/black.svg" alt="Business Card Scanner Lite" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 Caffeine is a stimulant found in coffee, tea, soft drinks, chocolate, kola nuts, and some medicines. Modest amounts can make you more alert, but too much can make you jittery and make it hard to sleep. This app integrates with the health app (HealthKit) to read and track your caffeine data and calculate the caffeine of the day, which helps you will make it easy to sleep.
-> Apple Watch, WatchKit, SwiftUI, In-app purchase
+> Apple Watch, WatchKit, HealthKit, SwiftUI, In-app purchase
 
-<img src="/images/apps/cafe/01.png" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/cardscanner/02.png" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/cardscanner/03.png" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/cardscanner/04.png" width="120">
+<img src="/images/apps/cafe/01.png" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/cafe/02.png" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/cafe/03.png" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/cafe/04.png" width="120">
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/cd5cf84749a2a252f2479e982062d5de/0a9eb72ce2d621fc7cb38d513eca1fea.png" width="150">

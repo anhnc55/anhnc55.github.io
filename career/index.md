@@ -50,15 +50,19 @@ comments: false
             <img src="/images/career/sun.png" alt="devoteam rvr parad"></div>
             <div class="experience-info card clear-after">
                 <h5>Sun Asterisk</h5>
-                <div class="role">Senior iOS Developer</div>
+                <div class="role">iOS Engineer</div>
                 <p>Feb 2017 to present</p>
                 <div class="experience-details">
                     <div>
-                            - Develop, bug fixes, and improve the iOS applications to provide users with the best app experience.
-                        <br>- Participate in the breakdown of stories into technical design, create projects base, create detail design, implementation tasks, sprint planning, and others.
+                            - Responsible for developing numerous iOS applications for various clients ranging.
+                        <br>- Participate in the breakdown of stories into the technical design to translate designs and wireframes into applications for the iOS platform.
+                        <br>- Utilize problem-solving and analytical skills to maintain the existing application and create solutions to complex technical problems.
                         <br>- Continuous improvement in performance, scalability, extensibility, reliability, and usability of features.
-                        <br>- Create automated build and release mechanisms with CI, CD. Monitor and support the health of iOS apps in production.
-                        <br>- Manage and support member tasks, ensure timeline in sprint planning.
+                        <br>- Collaborate with cross-functional teams to define, design, and ship new features.
+                        <br>- Creating and managing automation and integration of the CI, CD, monitor and support the health of iOS apps in production.
+                        <br>- Training interns, code reviews and help maintain code quality.
+                        <br>- Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+                        <br>- Employed several software methodologies including waterfall, agile, and scrum.
                     </div>
                 </div>
             </div>
@@ -76,8 +80,10 @@ comments: false
 				<p>Jul 2015 – Dec 2016</p>
 				<div class="experience-details">
                     <div>
-                            - Building iOS applications for customers and products of the company.
+                            - Design, develop and optimize the performance of "Job Seeker" app.
                         <br>- Analyzing requirements and developing the new features, bug fixes, standardizing code format, and supporting team members.
+                        <br>- Continuously discover, develop, and implement new technologies to maximize app efficiency.
+                        <br>- Collaborate with the Product Design team to define, design, and refine product features.
                     </div>      
 				</div>
 			</div>
@@ -90,13 +96,16 @@ comments: false
 			<div class="experience-img">
 			<img src="/images/career/fujitech.png" alt="devoteam rvr parad"></div>
 			<div class="experience-info card clear-after">
-				<h5>FUJI TECHNOLOGY</h5>
+				<h5>Fujitech JSC</h5>
 				<div class="role">iOS Developer</div>
 				<p>Jun 2014 – Jun 2015</p>
 				<div class="experience-details">
                     <div>
-                            - Building native OTT apps for the company.
-                        <br>- Analyzing requirements and developing the new features, bug fixes and supporting other members.
+                            - Participating in the development of the project on the iOS platform.
+                        <br>- Responsible for building solutions and architecture for the project.
+                        <br>- Coordinate with Development team, Design team to develop products.
+                        <br>- Design interface, optimize UI/UX.
+                        <br>- Research and apply tools to optimize products.
                     </div>   
 				</div>
 			</div>

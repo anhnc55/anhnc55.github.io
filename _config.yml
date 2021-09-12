@@ -28,11 +28,11 @@ kramdown:
 owner:
   name: Anh Nguyen
   avatar: bio-avatar-anhnc.png
-  bio: "Knowledge is power."
+  bio: "Code is read more than it is written, so make it easy to read."
   email: anhnc92@gmail.com
   disqus-shortname:
   twitter: anhnc92
-  facebook: anhnc92
+  facebook: # anhnc92
   google:
     plus:
     analytics:
@@ -41,10 +41,10 @@ owner:
     ad-slot:
   bing-verify:
   github: anhnc55
-  stackoverflow: 3799893/anhnc   #from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: # 3799893/anhnc   #from a "http://stackoverflow.com/users/123456/username" link
   linkedin: anh-nguyen-203230b1
   xing: #username
-  instagram: anhnc_55
+  instagram: # anhnc_55
   lastfm: #username
   tumblr: #username
   pinterest: #username
