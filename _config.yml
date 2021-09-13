@@ -9,7 +9,7 @@ url:              https://anhnc.me
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+rouge: pygments
 sass:
   sass_dir: _sass
   style: compressed
