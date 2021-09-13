@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 excerpt: ""
 tags: [Anh Nguyen, Software, Craftsmanship, Clean Code]
 # image:

@@ -35,6 +35,10 @@
   <div id="index">
     <div class="article-wrap">
       {{ content }}
+      {% if page.share != false %}
+        <hr />
+        {% include _social-share.html %}
+      {% endif %}
     </div>
   </div><!-- /#index -->
 </div><!-- /#main -->
