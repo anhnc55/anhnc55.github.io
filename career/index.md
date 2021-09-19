@@ -127,8 +127,6 @@ comments: false
 
 <div style="clear: both; padding-top: 50px"></div>
 
-
-For more details don't forget to visit my <a href="https://www.linkedin.com/in/anh-nguyen-203230b1" class="btn btn-info" target="_blank">LinkedIn profile</a>
-
+For more details don't forget to visit my <a href="https://www.linkedin.com/in/anh-nguyen-203230b1" class="btn btn-info" target="_blank">LinkedIn profile</a> or in my <a href="https://anhnc.me/documents/CV-Anh-Nguyen-iOS-Developer.pdf" class="btn btn-info" target="_blank">Resume</a>
 
 
