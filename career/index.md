@@ -10,29 +10,29 @@ comments: false
 	<div class="section-title"><h3>My skills</h3></div>
 	<div class="skill-tags">
 		<ul>
-			<li>iOS</li>
+			<li>iOS Development</li>
 			<li>Swift</li>
 			<li>Objective-C</li>
-            <li>Xcode</li>   
+            <li>Object-Oriented Programming (OOP)</li>
+            <li>Protocol-Oriented Programming (POP)</li>
+            <li>Data Structures</li>
+            <li>Design Patterns</li>       
             <li>Clean Architecture</li>         
-            <li>MVC/MVVM</li>         
+            <li>MVC/MVVM</li>
+            <li>Multithreading</li>
+            <li>Unit Testing</li>     
 			<li>CocoaPods</li>
 			<li>Swift Package Manager</li>
-			<li>Multithreading</li>
-			<li>Unit Testing</li>
-			<li>Object-Oriented Programming (OOP)</li>
-			<li>Protocol-Oriented Programming (POP)</li>
-			<li>Data Structures</li>
-			<li>Design Patterns</li>
-            <li>Git</li>         
+            <li>Xcode</li>            
+            <li>Git</li>
+            <li>Fastlane</li>
+            <li>CircleCI</li>
+            <li>Firebase</li>    
             <li>Project Management</li>  
             <li>Mobile Marketing</li>     
             <li>Requirements Analysis</li>  
 			<li>Agile Methodologies</li>
 			<li>Scrum</li>
-			<li>Fastlane</li>
-			<li>CircleCI</li>
-            <li>Firebase</li>
             <li>Sketch</li>
             <li>Figma</li>
             <li>Zeplin</li>
@@ -50,7 +50,7 @@ comments: false
             <img src="/images/career/sun.png" alt="devoteam rvr parad"></div>
             <div class="experience-info card clear-after">
                 <h5>Sun Asterisk</h5>
-                <div class="role">iOS Engineer</div>
+                <div class="role">Senior iOS Developer</div>
                 <p>Feb 2017 to present</p>
                 <div class="experience-details">
                     <div>
