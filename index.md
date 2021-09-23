@@ -54,7 +54,7 @@ Profie is a very lightweight professional Selfie application, easily to using, u
 
 <img src="/images/apps/profie/01.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/profie/02.png" width="300">
 
-<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/22020fb6761ab5d89cc195aca46ea39d/ed4369938febc83b6a96feb01c5913da.png" width="150">
+<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/8331e510f11c2f591c75f04d10eb9df7/a281fd1bf627e697184f4a57e7a583e3.png" width="150">
 
 # <img class="logo" src="/images/apps/icons/business-card-scanner-lite.png" width="32"> Business Card Scanner Lite
 <a href="https://apps.apple.com/us/app/business-card-scanner-lite/id1489328998?itscg=30200&amp;itsct=apps_box_badge" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="/images/apps/appstore/black.svg" alt="Business Card Scanner Lite" style="border-radius: 13px; width: 250px; height: 83px;"></a>
