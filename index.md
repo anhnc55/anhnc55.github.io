@@ -5,7 +5,7 @@ tags: [Anh Nguyen, Software, Craftsmanship, Clean Code]
 # image:
 # feature: header/mac/mac-glasses.jpg
 ---
-[<img src="/images/anhnc_avatar_dark.png" width="672"/>](#-personal-apps)  
+<img src="/images/anhnc_avatar_dark.png" width="672"/>
 
 <br>
 <a href="https://www.linkedin.com/in/anh-nguyen-203230b1/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
@@ -15,7 +15,7 @@ tags: [Anh Nguyen, Software, Craftsmanship, Clean Code]
 <a href="https://twitter.com/anhnc92"><img src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a>
 <br>
 
-Hi! My name is Anh Nguyen and I’m a software engineer with over 7 years of commercial iOS development experience.<br>
+Hi! My name is Anh Nguyen and I’m a software engineer with over 7 years of professional experience developing consumer-facing iOS applications.<br>
 My purpose is to create useful and easy-to-use apps for everyone.
 
 # <img class="logo" src="/images/apps/icons/ithemes-app-icon-changer.png" width="32"> iThemes - App Icon Changer
@@ -23,10 +23,10 @@ My purpose is to create useful and easy-to-use apps for everyone.
 
 Decorate aesthetic home screen, lets you personalize your home screen like never before.
 
-> Over 80,000 downloads, 1000 rating ~ 4.6 stars, Custom App Icons, Icon Maker, Widget, Change Wallpapers, Localized to 11 languages, Using SF Symbols, SwiftUI, Dark Mode support, In-app purchase
+> Over 95,000 downloads, 1500 rating ~ 4.5 stars, Custom App Icons, Widget, Icon Maker, Change Wallpapers, Localized to 11 languages, Using SF Symbols, SwiftUI, Dark Mode support, In-app purchase, Firebase Storage, FireStore, Analytics, Crashlytics
 
 
-<img src="/images/apps/ithemes/01.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/ithemes/02.png" width="300">
+<img src="/images/apps/ithemes/ithemes_total_download.png" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/ithemes/01.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/ithemes/02.png" width="300">
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/5f44a48bc2c40550676bc979cf6b28d6/83a6da60176722197e2df8b10f575a46.png" width="150">  
 
