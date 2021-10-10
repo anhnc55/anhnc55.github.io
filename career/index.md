@@ -23,7 +23,12 @@ comments: false
             <li>Unit Testing</li>     
 			<li>CocoaPods</li>
 			<li>Swift Package Manager</li>
-            <li>Xcode</li>            
+            <li>Xcode</li>                     
+            <li>UIKit</li>
+            <li>SwiftUI</li>
+            <li>Combine</li>
+            <li>Multithreading</li>
+            <li>Core Bluetooth</li>
             <li>Git</li>
             <li>Fastlane</li>
             <li>CircleCI</li>
