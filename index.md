@@ -23,7 +23,7 @@ My purpose is to create useful and easy-to-use apps for everyone.
 
 Decorate aesthetic home screen, lets you personalize your home screen like never before.
 
-> Over 95,000 downloads, 1500 rating ~ 4.5 stars, Custom App Icons, Widget, Icon Maker, Change Wallpapers, Localized to 11 languages, Using SF Symbols, SwiftUI, Dark Mode support, In-app purchase, Firebase Storage, FireStore, Analytics, Crashlytics
+> Over 125,000 downloads, 1500 rating ~ 4.5 stars, Custom App Icons, Widget, Icon Maker, Change Wallpapers, Localized to 11 languages, Using SF Symbols, SwiftUI, Dark Mode support, In-app purchase, Firebase Storage, FireStore, Analytics, Crashlytics
 
 
 <img src="/images/apps/ithemes/ithemes_total_download.png" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/ithemes/01.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/ithemes/02.png" width="300">
