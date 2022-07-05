@@ -30,7 +30,7 @@ Decorate aesthetic home screen, lets you personalize your home screen like never
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/5f44a48bc2c40550676bc979cf6b28d6/83a6da60176722197e2df8b10f575a46.png" width="150">  
 
-# <img class="logo" src="/images/apps/icons/iscanner-pdf-document-scanner.png" width="32"> iScanner: PDF document scanner
+# <img class="logo" src="/images/apps/icons/iscanner-pdf-document-scanner.png" width="32"> CamScanner - Photo To PDF App
 <a href="https://apps.apple.com/us/app/iscanner-pdf-document-scanner/id1458306453?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1586217600&h=a1836a0ad9159145e9d8f15ae6dcb27b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 There are many applications for iOS that allow the scanning of images or text. Most of them are however complex, slow, or not really suited for scanning documents.
@@ -44,7 +44,7 @@ iScanner has been created with one simple task in mind: Scanning and archiving d
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/6d30dce38e0631955405de49e096fa85/326430e5a642f2b6df3710045bad6c06.png" width="150">
 
-# <img class="logo" src="/images/apps/icons/profie-pro-selfie-camera.png" width="32"> Profie - Pro Selfie Camera
+# <img class="logo" src="/images/apps/icons/profie-pro-selfie-camera.png" width="32"> Profie - Portrait Photo Effect
 <a href="https://apps.apple.com/us/app/profie-pro-selfie-camera/id1518533398?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1592265600&h=7f2221616fd31031e9f55dd6c67e6ba4" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 Profie is a very lightweight professional Selfie application, easily to using, uses Machine Learning to create extraordinary photos, it allows you to isolate background, hair, skin, and teeth in a photo. Everything is done automatically with AI, you do not need to use any tool.
@@ -56,7 +56,7 @@ Profie is a very lightweight professional Selfie application, easily to using, u
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/8331e510f11c2f591c75f04d10eb9df7/a281fd1bf627e697184f4a57e7a583e3.png" width="150">
 
-# <img class="logo" src="/images/apps/icons/business-card-scanner-lite.png" width="32"> Business Card Scanner Lite
+# <img class="logo" src="/images/apps/icons/business-card-scanner-lite.png" width="32"> CamCard: Business Card Scanner
 <a href="https://apps.apple.com/us/app/business-card-scanner-lite/id1489328998?itscg=30200&amp;itsct=apps_box_badge" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="/images/apps/appstore/black.svg" alt="Business Card Scanner Lite" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 Scan and manage business cards no need the internet.
