@@ -28,7 +28,7 @@ comments: false
             <li>SwiftUI</li>
             <li>Combine</li>
             <li>Multithreading</li>
-            <li>Core Bluetooth</li>
+            <li>Core Bluetooth (BLE)</li>
             <li>Git</li>
             <li>Fastlane</li>
             <li>CircleCI</li>
@@ -68,7 +68,6 @@ comments: false
                         <br>- Train interns, code reviews and help maintain code quality.
                         <br>- Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
                         <br>- Employ several software methodologies including Waterfall, Agile, and Scrum.
-                        <br>- Tech Stacks: Combine · RxSwift · SwiftUI · Clean Architecture · Model-view-viewmodel (MVVM) · POP (Protocol Oriented Programming) · UIKit · iOS Development · Swift (Programming Language) · Agile Methodologies · Design Patterns · Object-Oriented Programming (OOP) · Xcode
                     </div>
                 </div>
             </div>
@@ -90,7 +89,6 @@ comments: false
                         <br>- Analyzed requirements and developed new features, bug fixes, standardized code format, and supported team members.
                         <br>- Continuously discover, develop, and implement new technologies to maximize app efficiency.
                         <br>- Coordinated with Development team and Design team to develop products.
-                        <br>- Tech Stacks: Model-View-Controller (MVC) · UIKit · iOS Development · Swift (Programming Language) · iOS · Objective-C
                     </div>      
 				</div>
 			</div>
@@ -113,7 +111,6 @@ comments: false
                         <br>- Coordinate with Development team, Design team to develop products.
                         <br>- Design interface, optimize UI/UX.
                         <br>- Research and apply tools to optimize products.
-                        <br>- Tech Stacks: Model-View-Controller (MVC) · UIKit · iOS Development · iOS · Objective-C
                     </div>   
 				</div>
 			</div>
