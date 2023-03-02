@@ -23,14 +23,14 @@ My purpose is to create useful and easy-to-use apps for everyone.
 
 Decorate aesthetic home screen, lets you personalize your home screen like never before.
 
-> Over 145,000 downloads, 1500 rating ~ 4.5 stars, Custom App Icons, Widget, Icon Maker, Change Wallpapers, Localized to 11 languages, Using SF Symbols, SwiftUI, Dark Mode support, In-app purchase, Firebase Storage, FireStore, Analytics, Crashlytics
+> Over 150,000 downloads, 1500 rating ~ 4.5 stars, Custom App Icons, Widget, Icon Maker, Change Wallpapers, Localized to 10 languages, Using SF Symbols, SwiftUI, Dark Mode support, In-app purchase, Firebase Storage, FireStore, Analytics, Crashlytics
 
 
 <img src="/images/apps/ithemes/ithemes_total_download.png" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/ithemes/01.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/ithemes/02.png" width="300">
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/5f44a48bc2c40550676bc979cf6b28d6/83a6da60176722197e2df8b10f575a46.png" width="150">  
 
-# <img class="logo" src="/images/apps/icons/iscanner-pdf-document-scanner.png" width="32"> CamScanner - Photo To PDF App
+# <img class="logo" src="/images/apps/icons/iscanner-pdf-document-scanner.png" width="32"> EasyScan - Photo To PDF App
 <a href="https://apps.apple.com/us/app/iscanner-pdf-document-scanner/id1458306453?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1586217600&h=a1836a0ad9159145e9d8f15ae6dcb27b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 There are many applications for iOS that allow the scanning of images or text. Most of them are however complex, slow, or not really suited for scanning documents.
