@@ -18,6 +18,16 @@ tags: [Anh Nguyen, Software, Craftsmanship, Clean Code]
 Hi! My name is Anh Nguyen and I’m a software engineer with over 7 years of professional experience developing consumer-facing iOS applications.<br>
 My purpose is to create useful and easy-to-use apps for everyone.
 
+
+# <img class="logo" src="/images/apps/icons/devtools.png" width="32"> DevTools - Smarter coding (MacOS app)
+<a href="https://apps.apple.com/us/app/devtools-smarter-coding/id6444775708?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1602374400&h=8b395929f1c29d6ade6faf120625ad0c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+DevTools is an app that works entirely offline, helps developers with daily tasks, and keeps the data safe.
+
+DevTools gives you the power to quickly create powerful and accurate code and is the perfect tool for speeding up development cycles. With the help of DevTools, you can make the most of your coding time and get the most out of your code with advanced debugging and testing tools.
+
+<img src="/images/apps/devtools/all.jpg" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/devtools/swift.jpg" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 # <img class="logo" src="/images/apps/icons/ithemes-app-icon-changer.png" width="32"> iThemes - App Icon Changer
 <a href="https://apps.apple.com/us/app/ithemes-app-icon-changer/id1535360671?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1602374400&h=8b395929f1c29d6ade6faf120625ad0c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
