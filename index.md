@@ -8,14 +8,14 @@ tags: [Anh Nguyen, Software, Craftsmanship, Clean Code]
 <img src="/images/anhnc_avatar_dark.png" width="672"/>
 
 <br>
-<a href="https://www.linkedin.com/in/anh-nguyen-203230b1/"><img src="https://img.icons8.com/ios-filled/64/555555/linkedin.svg" width="32"/></a>
+<a href="https://www.linkedin.com/in/anh-nguyen-203230b1/"><img src="/images/icons8-linkedin-48.png" width="32"/></a>
 &nbsp;
-<a href="https://apps.apple.com/us/developer/anh-nguyen/id1458306452"><img src="https://img.icons8.com/ios-filled/64/555555/apple-app-store.svg" width="32"/></a>
+<a href="https://apps.apple.com/us/developer/anh-nguyen/id1458306452"><img src="/images/icons8-app-store-48.png" width="32"/></a>
 &nbsp;
-<a href="https://twitter.com/anhnc92"><img src="https://img.icons8.com/ios-filled/64/555555/twitter.svg" width="32"/></a>
+<a href="https://twitter.com/anhnc92"><img src="/images/icons8-twitterx-48.png" width="32"/></a>
 <br>
 
-Hi! My name is Anh Nguyen and I’m a software engineer with over 7 years of professional experience developing consumer-facing iOS applications.<br>
+Hi! My name is Anh Nguyen and I’m a software engineer with over 8 years of professional experience developing consumer-facing iOS applications.<br>
 My purpose is to create useful and easy-to-use apps for everyone.
 
 
@@ -40,12 +40,12 @@ Decorate aesthetic home screen, lets you personalize your home screen like never
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/5f44a48bc2c40550676bc979cf6b28d6/83a6da60176722197e2df8b10f575a46.png" width="150">  
 
-# <img class="logo" src="/images/apps/icons/iscanner-pdf-document-scanner.png" width="32"> EasyScan - Photo To PDF App
+# <img class="logo" src="/images/apps/icons/iscanner-pdf-document-scanner.png" width="32"> SCANNER - Photo To PDF App
 <a href="https://apps.apple.com/us/app/iscanner-pdf-document-scanner/id1458306453?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1586217600&h=a1836a0ad9159145e9d8f15ae6dcb27b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 There are many applications for iOS that allow the scanning of images or text. Most of them are however complex, slow, or not really suited for scanning documents.
 
-iScanner has been created with one simple task in mind: Scanning and archiving documents as quickly and easily as possible. It especially helps you a lot when you work from home.
+SCANNER has been created with one simple task in mind: Scanning and archiving documents as quickly and easily as possible. It especially helps you a lot when you work from home.
 
 > UIKit, VisionKit, Realm, OCR, Taptic feedback, In-app purchase
 
