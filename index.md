@@ -15,16 +15,35 @@ tags: [Anh Nguyen, Software, Craftsmanship, Clean Code]
 <a href="https://twitter.com/anhnc92"><img src="/images/icons8-twitterx-48.png" width="32"/></a>
 <br>
 
-Hi! My name is Anh Nguyen and I’m a software engineer with over 8 years of professional experience developing consumer-facing iOS applications.<br>
-My purpose is to create useful and easy-to-use apps for everyone.
+Hello there! I’m Anh Nguyen, and I’ve been coding for over eight years. I make iOS apps that people use. As an independent developer, I want to make sure my apps are not only useful but also easy to use and accessible to everyone. I’ve been on a mission to find new ways to solve problems and make products that people love. I think that thoughtful design and good functionality are really important, and I’m excited to create meaningful tools that can make a positive difference in people’s lives.
 
+# <img class="logo" src="/images/apps/icons/moneytracker.png" width="32"> Money Tracker - Budget Manager
+<a href="https://apps.apple.com/us/app/money-tracker-budget-manager/id6633413204?itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1602374400&h=8b395929f1c29d6ade6faf120625ad0c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+Meet Money Tracker, your personal finance superhero! This app simplifies managing your money, making it a breeze.
+
+• Easily Track Your Finances: Keep a close eye on all your accounts and wallets without the hassle of juggling multiple financial apps.
+
+• Gain Insights into Your Spending: Dive into your detailed expense and income history to understand where your money goes and make informed financial decisions.
+
+• Create and Manage Budgets: Set budgets for your favorite spending categories and stay within your limits to achieve a balanced financial life.
+
+• Make Informed Choices: Analyze your financial situation with comprehensive reports that provide a clear picture of your spending patterns.
+
+• Stay Informed, Always: Keep an eye on your finances with a handy Home Screen widget. Track your spending and budget conveniently without even opening the app.
+
+• Save Time and Ensure Accuracy: Automatically categorize transactions to save time and ensure accuracy. Stay organized effortlessly.
+
+• Protect Your Financial Information: Your financial data is safe and secure with Money Tracker. We don’t collect or share any user data. All your financial details are securely stored on your device and in iCloud, private and accessible only to you. No data goes to external servers, giving you complete control and peace of mind.
+
+<img src="/images/apps/appstore/moneytracker_01.png" width="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/appstore/moneytracker_02.png" width="300">
 
 # <img class="logo" src="/images/apps/icons/devtools.png" width="32"> DevTools - Smarter coding (MacOS app)
 <a href="https://apps.apple.com/us/app/devtools-smarter-coding/id6444775708?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1602374400&h=8b395929f1c29d6ade6faf120625ad0c" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
-DevTools is an app that works entirely offline, helps developers with daily tasks, and keeps the data safe.
+DevTools is an all-in-one offline application that provides developers with essential tools for daily tasks and ensures data security. The app has been trusted by over 15,000 developers worldwide and has an impressive rating of 4.8 stars out of 5 based on over 500 reviews.
 
-DevTools gives you the power to quickly create powerful and accurate code and is the perfect tool for speeding up development cycles. With the help of DevTools, you can make the most of your coding time and get the most out of your code with advanced debugging and testing tools.
+DevTools streamlines the coding process by providing quick access to powerful and accurate code creation. It’s the ideal companion for speeding up development cycles. With DevTools, developers can optimize their coding time and maximize the effectiveness of their code through advanced debugging and testing features.
 
 <img src="/images/apps/devtools/all.jpg" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/apps/devtools/swift.jpg" width="800">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
